@@ -6,7 +6,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 :-- | :--: | :--: | :--: | :--: | :--:| :--:
-[Introduction to Computer Science and Programming Using Python](hhttps://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2?source=aw&awc=6798_1557106025_e6f09cca56f5015d08e5b518ce97023f&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | MIT | 9 week | 16 hours/week | self-paced | none | 146 hours
+[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2?source=aw&awc=6798_1557106025_e6f09cca56f5015d08e5b518ce97023f&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | MIT | 9 week | 16 hours/week | self-paced | none | 146 hours
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | 30 hours
 
 ## Programming
@@ -71,8 +71,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 :-- | :--: | :--: | :--: | :--: | :--:| :--:
+[intro to physics](https://www.udacity.com/course/intro-to-physics--ph100) | Udacity | 8 week | 3 hours/week | self-paced | none | 24 hours
 [Introdução à Engenharia Mecânica](https://www.coursera.org/learn/engineering-mechanics-statics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-e7o6PxzYspdd8S1f87TjUQ&siteID=SAyYsTvLiGQ-e7o6PxzYspdd8S1f87TjUQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)| Georgia Tech | 5 week | 5 hours/week | self-paced | none | 25 hours
-[Engenharia Mecânica e suas Aplicações](https://www.coursera.org/learn/engineering-mechanics-statics-2) )| Georgia Tech | 5 week | 7 hours/week | self-paced | none | 35 hours
+[Engenharia Mecânica e suas Aplicações](https://www.coursera.org/learn/engineering-mechanics-statics-2)| Georgia Tech | 5 week | 7 hours/week | self-paced | none | 35 hours
 
 ## Data Science
 
@@ -86,3 +87,19 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-iuVWf66btwobx5gPET8xsw&siteID=SAyYsTvLiGQ-iuVWf66btwobx5gPET8xsw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Stanford |11 week | 5 hours/week | self-paced | none | 55 hours
 
 ## Business
+
+[Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing?indices%5Bprod_all_products%5D%5BrefinementList%5D%5Blanguage%5D=&indices%5Bprod_all_products%5D%5Bpage%5D=1&indices%5Bprod_all_products%5D%5Bconfigure%5D%5BclickAnalytics%5D=true&indices%5Bprod_all_products%5D%5Bconfigure%5D%5BhitsPerPage%5D=10&configure%5BclickAnalytics%5D=true)| Pennsylvania  | 5 week | 6 hours/week | monthly | none | 30 hours
+[Introduction to Financial Accounting](https://www.coursera.org/learn/wharton-accounting?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-3RKlfaonOGghv4wfRZe4WA&siteID=SAyYsTvLiGQ-3RKlfaonOGghv4wfRZe4WA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)| Pennsylvania  | 4 week | 8 hours/week | monthly | none | 32 hours
+[Introduction to Operations Management](http://click.linksynergy.com/fs-bin/click?id=SAyYsTvLiGQ&subid=&offerid=451430.1&type=10&tmpid=18061&RD_PARM1=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwharton-operations&u1=gtc_www_classcentral_com) | Pennsylvania  | 4 week | 7 hours/week | monthly | none | 28 hours
+[Introduction to Corporate Finance](http://click.linksynergy.com/fs-bin/click?id=SAyYsTvLiGQ&subid=&offerid=451430.1&type=10&tmpid=18061&RD_PARM1=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwharton-finance&u1=gtc_www_classcentral_com) | Pennsylvania  | 4 week | 8 hours/week | monthly | none | 32 hours
+[Decision-Making and Scenarios](https://www.coursera.org/learn/wharton-decision-making-scenarios?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-Nqobk.xdDh1OZmz.3mLV9A&siteID=SAyYsTvLiGQ-Nqobk.xdDh1OZmz.3mLV9A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Pennsylvania  | 4 week | 3 hours/week | monthly | none | 12 hours
+[Mananing Talent](https://www.coursera.org/learn/managing-talent?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-kZX27mceaSTvnzPdB5aOpg&siteID=SAyYsTvLiGQ-kZX27mceaSTvnzPdB5aOpg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)| Michigan  | 4 week | 5 hours/week | monthly | none | 20 hours
+[Scaling Operations: Linking Strategy and Execution](https://www.coursera.org/learn/operations-strategy?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-TfDMSCTGsqoo.k74gJOzDA&siteID=SAyYsTvLiGQ-TfDMSCTGsqoo.k74gJOzDA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | NorthWest  | 5 week | 5 hours/week | monthly | none | 25 hours
+[Negociações de sucesso: estratégias e habilidades essenciais](https://www.coursera.org/learn/negotiation-skills?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-q3_HXynx62UYjlNefDvIEA&siteID=SAyYsTvLiGQ-q3_HXynx62UYjlNefDvIEA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)| Michigan  | 7 week | 2 hours/week | monthly | none | 14 hours
+[Inspirando e Motivando Pessoas](https://www.coursera.org/learn/motivate-people-teams?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-UoFLmR.y9V4m1F.ofq6FvQ&siteID=SAyYsTvLiGQ-UoFLmR.y9V4m1F.ofq6FvQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)| Michigan  | 4 week | 5 hours/week | monthly | none | 20 hours
+[Leadership Communication for Maximum Impact: Storytelling]
+(https://www.coursera.org/learn/leadership-storytelling?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-2HUwN7Ts5.yWrgKQ9Kuxlw&siteID=SAyYsTvLiGQ-2HUwN7Ts5.yWrgKQ9Kuxlw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)| NorthWest  | 3 week | 3 hours/week | monthly | none | 9 hours
+[Entrepreneurship 1: Developing the Opportunity](https://www.coursera.org/learn/wharton-entrepreneurship-opportunity?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-dtUUEEAJ0kzcHIVdBctM9w&siteID=SAyYsTvLiGQ-dtUUEEAJ0kzcHIVdBctM9w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+[Entrepreneurship 2: Launching your Start-Up](https://www.coursera.org/learn/wharton-launching-startup?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-BulgRnkWdim2oZbs3jiL3A&siteID=SAyYsTvLiGQ-BulgRnkWdim2oZbs3jiL3A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+[Entrepreneurship 3: Growth Strategies](http://click.linksynergy.com/fs-bin/click?id=SAyYsTvLiGQ&subid=&offerid=451430.1&type=10&tmpid=18061&RD_PARM1=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fgrowth-strategy&u1=gtc_www_classcentral_com)
+[Entrepreneurship 4: Financing and Profitability](http://click.linksynergy.com/fs-bin/click?id=SAyYsTvLiGQ&subid=&offerid=451430.1&type=10&tmpid=18061&RD_PARM1=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwharton-entrepreneurship-financing-profitabilty&u1=gtc_www_classcentral_com)
