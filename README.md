@@ -1,7 +1,13 @@
 # The Open Source Computer Science Degree
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, Princeton and others(udacity and Udemy)  that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+The on going Basics is to be done on the whaterver half hours left of the day Remeber to do ONLY ONE.
 
+## On going Basics
+Courses | daily Minutes
+:-- | :--: |
+[Math](https://www.khanacademy.org/math) | 30
+[Grammar](https://www.khanacademy.org/humanities/grammar) | 20
 
 ## Computer Science Basics
 
@@ -67,14 +73,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 :-- | :--: | :--: | :--: | :--: | :--:| :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none | 5 hours
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
-
-## Sciences
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
-:-- | :--: | :--: | :--: | :--: | :--:| :--:
-[intro to physics](https://www.udacity.com/course/intro-to-physics--ph100) | Udacity | 8 week | 3 hours/week | self-paced | none | 24 hours
-[Introdução à Engenharia Mecânica](https://www.coursera.org/learn/engineering-mechanics-statics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-e7o6PxzYspdd8S1f87TjUQ&siteID=SAyYsTvLiGQ-e7o6PxzYspdd8S1f87TjUQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)| Georgia Tech | 5 week | 5 hours/week | self-paced | none | 25 hours
-[Engenharia Mecânica e suas Aplicações](https://www.coursera.org/learn/engineering-mechanics-statics-2)| Georgia Tech | 5 week | 7 hours/week | self-paced | none | 35 hours
 
 ## Data Science
 
