@@ -1,11 +1,11 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, Princeton and others(udacity and Udemy)  that satisfy the same requirements as an undergraduate Computer Science degree, plus Data science and bussines() minor.
+This is a curated list of free courses from reputable universities like MIT, Stanford, Princeton and others(udacity and Udemy)  that satisfy the same requirements as an undergraduate Computer Science degree, plus Data science and bussines minor.
 
 
 
 ## Skill Maintenance
-
+Courses | Minutes
 :-- | :--: |
 [Math](https://www.khanacademy.org/math) | 30
 [Grammar](https://www.khanacademy.org/humanities/grammar) | 20
