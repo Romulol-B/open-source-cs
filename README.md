@@ -1,14 +1,14 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, Princeton and others(udacity and Udemy)  that satisfy the same requirements as an undergraduate Computer Science degree, minus general education(expet.
-The on going Basics is to be done on the whaterver half hours left of the day Remeber to do ONLY ONE.
+This is a curated list of free courses from reputable universities like MIT, Stanford, Princeton and others(udacity and Udemy)  that satisfy the same requirements as an undergraduate Computer Science degree, plus Data science and bussines() minor.
 
-## On going Basics
-Courses | daily Minutes
+
+
+## Skill Maintenance
+
 :-- | :--: |
 [Math](https://www.khanacademy.org/math) | 30
 [Grammar](https://www.khanacademy.org/humanities/grammar) | 20
-
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
