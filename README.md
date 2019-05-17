@@ -1,6 +1,6 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, Princeton and others(udacity and Udemy)  that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+This is a curated list of free courses from reputable universities like MIT, Stanford, Princeton and others(udacity and Udemy)  that satisfy the same requirements as an undergraduate Computer Science degree, minus general education(expet.
 The on going Basics is to be done on the whaterver half hours left of the day Remeber to do ONLY ONE.
 
 ## On going Basics
@@ -83,8 +83,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 [Data Science A-Z](https://www.udemy.com/datascience/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-Nh1oguQAAQ7w2Cf9L6HCHA&LSNPUBID=SAyYsTvLiGQ)| Udemy |- | - | self-paced | none | 30 hours
 [Tableau 10 A-Z](https://www.udemy.com/tableau10/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-d0nGKB2UkASFOJRHEMmJWA&LSNPUBID=SAyYsTvLiGQ)| Udemy |- | - | self-paced | none | 14 hours
 [Tableau Master Training ](https://www.udemy.com/course/tableau10-advanced/?LSNPUBID=SAyYsTvLiGQ&ranEAID=SAyYsTvLiGQ&ranMID=39197&ranSiteID=SAyYsTvLiGQ-fLpHDOK83_5jpHezM8B4IA) | Udemy |- | - | self-paced | none | 12 hours
-[Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-iuVWf66btwobx5gPET8xsw&siteID=SAyYsTvLiGQ-iuVWf66btwobx5gPET8xsw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Stanford |11 week | 5 hours/week | self-paced | none | 55 hours
-
 ## Business
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
