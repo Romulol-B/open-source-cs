@@ -74,16 +74,12 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none | 5 hours
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
 
-## Data Base
-
-Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
-:-- | :--: | :--: | :--: | :--: | :--:| :--:
-
 ## Data Science
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Total hours
 :-- | :--: | :--: | :--: | :--: | :--:| :--:
 [UT.7.01x: Foundations of Data Analysis](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0?source=aw&awc=6798_1557088536_4904bca11de7909d07e8906b11470189) | Texas | 6 weeks | 6 hours/week | twice a month | none | 36 hours
+[Craftin Quality Code](https://www.coursera.org/learn/program-code?skipBrowseRedirect=true&skipRecommendationsRedirect=true&tab=inactive)| Toronto | 5 weeks | 4 hours/week | twice a month | none | 20 hours
 [Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0?source=aw&awc=6798_1557088964_2c3d6bc5967469bc19c4402d24fe6d9d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | Texas | 6 weeks | 6 hours/week | self-paced | none | 36 hours
 [Data Science A-Z](https://www.udemy.com/datascience/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-Nh1oguQAAQ7w2Cf9L6HCHA&LSNPUBID=SAyYsTvLiGQ)| Udemy |- | - | self-paced | none | 30 hours
 [Tableau 10 A-Z](https://www.udemy.com/tableau10/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-d0nGKB2UkASFOJRHEMmJWA&LSNPUBID=SAyYsTvLiGQ)| Udemy |- | - | self-paced | none | 14 hours
